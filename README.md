@@ -1,0 +1,1 @@
+# MIDI controller SDRConsole setup
