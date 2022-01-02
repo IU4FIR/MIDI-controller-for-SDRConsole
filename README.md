@@ -1,2 +1,2 @@
-# MIDI controller setup for SDRConsole-V3
+# MIDI controller for SDRConsole
 
