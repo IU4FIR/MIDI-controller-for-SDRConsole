@@ -1,4 +1,4 @@
-# ARTURIA beatstep
+# ARTURIA BEATSTEP
 
 https://www.arturia.com/products/hybrid-synths/beatstep/overview
 
@@ -12,6 +12,6 @@ https://www.arturia.com/products/hybrid-synths/beatstep/overview
 
 ![image](https://user-images.githubusercontent.com/96939950/147855864-e1adc29f-8fc4-439a-bda8-9a379879fc60.png)
 
-# ASSIGNED COMMANDS
+# COMMANDS LAYOUT
 
 ![image](https://user-images.githubusercontent.com/96939950/147855925-d1cd5c13-81a6-4e8b-b301-12a0f1be9477.png)
