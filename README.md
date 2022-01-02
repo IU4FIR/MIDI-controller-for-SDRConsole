@@ -1,4 +1,4 @@
-# SDR Console - Software Define Radio by G4ELI
+# SDR Console - Software Defined Radio by G4ELI
 # https://www.sdr-radio.com/Console
 
 
