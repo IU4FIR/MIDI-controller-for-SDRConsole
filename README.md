@@ -1,2 +1,3 @@
-# MIDI controller for SDRConsole
+# SDRConsole
 
+https://www.sdr-radio.com/Console
