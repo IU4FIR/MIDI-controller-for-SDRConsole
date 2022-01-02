@@ -15,3 +15,5 @@ https://www.arturia.com/products/hybrid-synths/beatstep/overview
 # COMMANDS LAYOUT
 
 ![image](https://user-images.githubusercontent.com/96939950/147855925-d1cd5c13-81a6-4e8b-b301-12a0f1be9477.png)
+
+
