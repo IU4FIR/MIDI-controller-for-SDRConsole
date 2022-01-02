@@ -8,7 +8,11 @@ https://www.arturia.com/products/hybrid-synths/beatstep/overview
 
 ![image](https://user-images.githubusercontent.com/96939950/147855763-df7d1b7a-bbc8-4469-9ce6-745aae0c3d4f.png)
 
-# CONTROLLER SETUP
+![Beatstep](https://user-images.githubusercontent.com/96939950/147886443-170fe1f9-baa3-4506-8758-29c043511771.png)
+
+
+
+CONTROLLER SETUP
 
 ![image](https://user-images.githubusercontent.com/96939950/147855864-e1adc29f-8fc4-439a-bda8-9a379879fc60.png)
 
