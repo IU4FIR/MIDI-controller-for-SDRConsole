@@ -4,24 +4,19 @@
 
 
 # CONTROLLER MAP
-The mapping of the controls is purely indicative, the real parameters must be configured in the software editor!
 
-![image](https://user-images.githubusercontent.com/96939950/147907133-b9da63b0-f4c3-487c-83f0-d43599355dda.png)
+![image](https://user-images.githubusercontent.com/96939950/147907897-748530b2-18f4-49c3-a21a-233ea8871a2b.png)
 
 
 # MIDI EDITOR
-# Please read the Editor user guide carefully before starting configuration!
+## Please read the Editor user guide carefully before starting configuration!
 
-    KNOBS parameters for TUNING UP/DWN
+ KNOB parameters for TUNING UP/DWN
+        
         MODE
-            Control
+           Control
         OPTION
-            Relative #2
-        CHANNEL
-            Value related to your mapping table
-        CC Number
-            Value related to your mapping table
-
+           Relative #2
 ![image](https://user-images.githubusercontent.com/96939950/147898828-f6cfbc28-94d7-41cb-b61d-91ebddd455cb.png)
 
 # SDR Console MIDI setup
@@ -63,6 +58,7 @@ The mapping of the controls is purely indicative, the real parameters must be co
     P14	
       Filter low ▲
    
+![image](https://user-images.githubusercontent.com/96939950/147909295-6d373161-16d1-424e-98e7-cc3cc3a01d3c.png)
 
 
 
