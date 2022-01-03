@@ -15,7 +15,7 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
 
 
 # MIDI EDITOR
-## Please read the Editor user guide carefully before starting configuration!
+## Please read the Editor user guide before starting configuration!
 
  KNOB parameters for TUNING UP/DWN
         
