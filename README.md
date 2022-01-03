@@ -1,8 +1,12 @@
 # Software Defined Radio
 ## SDR Console by G4ELI
+https://github.com/IU4FIR/MIDI-controller-for-SDRConsole/tree/SDR-Console
 
 # MIDI Controller
-## 1) HERCULES Starlight
+
+## AKAI MD218
+
+## ARTURIA Beatstep
+
+## HERCULES Starlight
 https://github.com/IU4FIR/MIDI-controller-for-SDRConsole/tree/HERCULES-Starlight
-## 2) ARTURIA Beatstep
-## 3) AKAI MD218
