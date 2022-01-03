@@ -1,23 +1,11 @@
 # ARTURIA BEATSTEP
 
-https://www.arturia.com/products/hybrid-synths/beatstep/overview
+![image](https://user-images.githubusercontent.com/96939950/147897419-3552f1f6-9d84-49ee-97e0-e9c450cd1b2a.png)
 
-![image](https://user-images.githubusercontent.com/96939950/147855738-b8e26d7b-7b06-4e8e-992f-885c81219f1f.jpg)
 
 # CONTROLLER MAP
-
-![image](https://user-images.githubusercontent.com/96939950/147855763-df7d1b7a-bbc8-4469-9ce6-745aae0c3d4f.png)
-
-![Beatstep](https://user-images.githubusercontent.com/96939950/147886530-bcf5c90c-04c9-4ea9-82ed-a4f64abf380a.png)
+![image](https://user-images.githubusercontent.com/96939950/147897450-c89de860-e5cd-41d3-aee8-42bed5353591.png)
 
 
-CONTROLLER SETUP
+# CONTROLLER SETUP
 
-![image](https://user-images.githubusercontent.com/96939950/147855864-e1adc29f-8fc4-439a-bda8-9a379879fc60.png)
-
-# COMMANDS LAYOUT
-
-![image](https://user-images.githubusercontent.com/96939950/147855925-d1cd5c13-81a6-4e8b-b301-12a0f1be9477.png)
-
-
-![Beatstep](https://user-images.githubusercontent.com/96939950/147886616-14a7a4db-cb03-425a-b79c-2aa37b80ceda.png)
