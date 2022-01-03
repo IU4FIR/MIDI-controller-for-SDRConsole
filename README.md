@@ -26,62 +26,43 @@ The mapping of the controls is purely indicative, the real parameters must be co
 
 # SDR Console MIDI setup
 
-
 ![image](https://user-images.githubusercontent.com/96939950/147898461-0516f115-1162-4a0d-94bd-18e382dda27b.png)
 
-    K01
+
+    E1
       Tune Fine ▼	
       Tune Fine ▲	
-    K02	
+    E2	
       Tune x10 ▼	
       Tune x10 ▲	
-    K03	
+    E3	
       Tune x100 ▼	
       Tune x100 ▲	
-    K08	
+    E8	
       Audio Level		
-    K17	
+    E17	
       Tune Norm ▼	
       Tune Norm ▲	
 
-    P01 	
+    P1 	
       MHz Up ▼
-    P02	
+    P2	
       MHz Up ▲
-    P05	
+    P5	
       Filter high ▼		
-    P06	
+    P6	
       Filter high ▲
-    P07	
+    P7	
       Mode ▼	
-    P08	
+    P8	
       Mode ▲	
+    P9	
+      Audio Mute all
     P13	
       Filter low ▼	
     P14	
-      Filter low ▲	
-
-    B01	
-      Audio Mute all
-    ➽	
-      CNTRL ON
+      Filter low ▲
+   
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/96939950/147897602-b64cb50a-6104-4001-b4ac-c684f8c170dc.png)
