@@ -11,6 +11,9 @@ The mapping of the controls is purely indicative, the real parameters must be co
 
 # SDR Console MIDI setup
 
+
+![image](https://user-images.githubusercontent.com/96939950/147898461-0516f115-1162-4a0d-94bd-18e382dda27b.png)
+
     K01
       Tune Fine ▼	
       Tune Fine ▲	
