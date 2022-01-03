@@ -10,6 +10,16 @@ The mapping of the controls is purely indicative, the real parameters must be co
 
 # MIDI EDITOR
 
+    KNOBS parameters for TUNING UP/DWN
+        MODE
+            Control
+        OPTION
+            Relative #2
+        CHANNEL
+            Value related to your mapping table
+        CC Number
+            Value related to your mapping table
+
 ![image](https://user-images.githubusercontent.com/96939950/147898828-f6cfbc28-94d7-41cb-b61d-91ebddd455cb.png)
 
 # SDR Console MIDI setup
