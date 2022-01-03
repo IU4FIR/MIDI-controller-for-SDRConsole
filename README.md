@@ -2,6 +2,6 @@
 ## SDR Console by G4ELI
 
 # MIDI Controller
-## HERCULES Starlight
-## ARTURIA Beatstep
-## AKAI MD218
+## 1) HERCULES Starlight
+## 2) ARTURIA Beatstep
+## 3) AKAI MD218
