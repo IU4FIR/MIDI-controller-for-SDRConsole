@@ -8,6 +8,7 @@ https://github.com/IU4FIR/MIDI-controller-for-SDRConsole/tree/SDR-Console
 https://github.com/IU4FIR/MIDI-controller-for-SDRConsole/tree/AKAI-MPD218
 
 ## ARTURIA Beatstep
+https://github.com/IU4FIR/MIDI-controller-for-SDRConsole/tree/ARTURIA-Beatstep
 
 ## HERCULES Starlight
 https://github.com/IU4FIR/MIDI-controller-for-SDRConsole/tree/HERCULES-Starlight
