@@ -5,6 +5,7 @@ https://github.com/IU4FIR/MIDI-controller-for-SDRConsole/tree/SDR-Console
 # MIDI Controller
 
 ## AKAI MD218
+https://github.com/IU4FIR/MIDI-controller-for-SDRConsole/tree/AKAI-MPD218
 
 ## ARTURIA Beatstep
 
