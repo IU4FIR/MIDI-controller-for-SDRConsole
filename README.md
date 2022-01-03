@@ -4,6 +4,8 @@
 
 
 # CONTROLLER MAP
+The mapping of the controls is purely indicative, the real parameters must be configured in the editor software!
+
 ![image](https://user-images.githubusercontent.com/96939950/147897450-c89de860-e5cd-41d3-aee8-42bed5353591.png)
 
 
