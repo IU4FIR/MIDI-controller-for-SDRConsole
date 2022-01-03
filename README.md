@@ -6,7 +6,8 @@
 # CONTROLLER MAP
 The mapping of the controls is purely indicative, the real parameters must be configured in the software editor!
 
-![image](https://user-images.githubusercontent.com/96939950/147897450-c89de860-e5cd-41d3-aee8-42bed5353591.png)
+![image](https://user-images.githubusercontent.com/96939950/147907133-b9da63b0-f4c3-487c-83f0-d43599355dda.png)
+
 
 # MIDI EDITOR
 # Please read the Editor user guide carefully before starting configuration!
