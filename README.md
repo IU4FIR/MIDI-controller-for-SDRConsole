@@ -4,10 +4,13 @@
 
 
 # CONTROLLER MAP
-The mapping of the controls is purely indicative, the real parameters must be configured in the editor software!
+The mapping of the controls is purely indicative, the real parameters must be configured in the software editor!
 
 ![image](https://user-images.githubusercontent.com/96939950/147897450-c89de860-e5cd-41d3-aee8-42bed5353591.png)
 
+# MIDI EDITOR
+
+![image](https://user-images.githubusercontent.com/96939950/147898828-f6cfbc28-94d7-41cb-b61d-91ebddd455cb.png)
 
 # SDR Console MIDI setup
 
