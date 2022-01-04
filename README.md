@@ -39,6 +39,8 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
  # MIDI Controller layout     
 ![b5](https://user-images.githubusercontent.com/96939950/148034838-8fc19518-cf2b-45b0-84ed-fe1a4f19f232.gif)
 
+## thanks to ARTURIA for documentation
+
 
 
 
