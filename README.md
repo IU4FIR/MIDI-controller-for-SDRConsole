@@ -31,52 +31,13 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
 # MIDI Editor
 ## Please read the Editor user guide before starting configuration!
 
- KNOB parameters for TUNING UP/DWN
-        
-        MODE
-           Control
-        OPTION
-           Relative #2
-![image](https://user-images.githubusercontent.com/96939950/147898828-f6cfbc28-94d7-41cb-b61d-91ebddd455cb.png)
+![b3](https://user-images.githubusercontent.com/96939950/148068271-30315224-2045-48fe-b37e-569f52dcc138.gif)
 
-# SDR Console MIDI setup
+ # SDR Console MIDI setup
 ![b4](https://user-images.githubusercontent.com/96939950/148035079-5f768e69-829c-42d7-b278-565d23c5c380.gif)
 
-    E1
-      Tune Fine ▼	
-      Tune Fine ▲	
-    E2	
-      Tune x10 ▼	
-      Tune x10 ▲	
-    E3	
-      Tune x100 ▼	
-      Tune x100 ▲	
-    E8	
-      Audio Level		
-    E17	
-      Tune Norm ▼	
-      Tune Norm ▲	
-
-    P1 	
-      MHz Up ▼
-    P2	
-      MHz Up ▲
-    P5	
-      Filter high ▼		
-    P6	
-      Filter high ▲
-    P7	
-      Mode ▼	
-    P8	
-      Mode ▲	
-    P9	
-      Audio Mute all
-    P13	
-      Filter low ▼	
-    P14	
-      Filter low ▲
-   
-   ![b5](https://user-images.githubusercontent.com/96939950/148034838-8fc19518-cf2b-45b0-84ed-fe1a4f19f232.gif)
+      
+![b5](https://user-images.githubusercontent.com/96939950/148034838-8fc19518-cf2b-45b0-84ed-fe1a4f19f232.gif)
 
 
 
