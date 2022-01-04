@@ -15,7 +15,7 @@
 
 **Kensington Lock**
 
-**Fully editable with MIDI Control Center Editor software**
+**Fully editable with MIDI Control Center software**
 
 ## Resources
 https://downloads.arturia.net/products/beatstep/manual/BeatStep_Manual_1_0_1_EN.pdf
@@ -27,9 +27,11 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
 
 ![b2](https://user-images.githubusercontent.com/96939950/148087113-86732fea-cfa4-467f-a4b6-6b7feb5acc81.gif)
 
-# MIDI Editor
-## Please read the Editor user guide before starting configuration!
+# MIDI Control Center
+## Please read user guide before starting configuration!
 ![b3](https://user-images.githubusercontent.com/96939950/148087168-607e05e7-b6a6-442d-8064-0721e1fdeb3a.gif)
+
+
 ![b4](https://user-images.githubusercontent.com/96939950/148087268-0ccd805b-ea63-4f12-a70a-4abf3479a7ef.gif)
 
  # SDR Console MIDI setup
