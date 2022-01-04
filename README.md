@@ -36,7 +36,7 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
  # SDR Console MIDI setup
 ![b4](https://user-images.githubusercontent.com/96939950/148035079-5f768e69-829c-42d7-b278-565d23c5c380.gif)
 
-      
+ # MIDI Controller layout     
 ![b5](https://user-images.githubusercontent.com/96939950/148034838-8fc19518-cf2b-45b0-84ed-fe1a4f19f232.gif)
 
 
