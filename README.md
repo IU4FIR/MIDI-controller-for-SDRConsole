@@ -4,7 +4,7 @@
 ![BeatStep_111813 TOP](https://user-images.githubusercontent.com/96939950/148024423-9f36837d-5712-46e9-8975-26f0ba584473.png)
 MIDI controller mode (RED led mode)
 
-16 + 1 encoders endless rotation
+16 + 1 endless rotation knobs
 
 16 velocity and pressure sensitive pads
 
@@ -23,8 +23,8 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
 
 
 # CONTROLLER MAP
+![b2](https://user-images.githubusercontent.com/96939950/148029754-d9f8cb42-120d-4216-995a-a899cada7e96.gif)
 
-![image](https://user-images.githubusercontent.com/96939950/147907897-748530b2-18f4-49c3-a21a-233ea8871a2b.png)
 
 
 # MIDI EDITOR
@@ -40,8 +40,7 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
 
 # SDR Console MIDI setup
 
-![image](https://user-images.githubusercontent.com/96939950/147898461-0516f115-1162-4a0d-94bd-18e382dda27b.png)
-
+![b4](https://user-images.githubusercontent.com/96939950/148026138-5ff31fef-0752-41af-b00d-582b4b15dfec.gif)
 
     E1
       Tune Fine ▼	
