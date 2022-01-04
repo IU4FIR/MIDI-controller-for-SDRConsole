@@ -1,4 +1,4 @@
-# ARTURIA BEATSTEP
+# Arturia BEATSTEP
 
 ## https://www.arturia.com/products/hybrid-synths/beatstep/overview
 ![BeatStep_111813 TOP](https://user-images.githubusercontent.com/96939950/148024423-9f36837d-5712-46e9-8975-26f0ba584473.png)
@@ -23,12 +23,12 @@ https://downloads.arturia.net/extra/mcc/MIDI_Control_Center_1_13_5_1.exe
 https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0_EN.pdf
 
 
-# CONTROLLER MAP
+# Controller Map
 
 ![b2](https://user-images.githubusercontent.com/96939950/148035040-1df6c673-0f0c-45ca-a3a2-3aa713b1dde7.gif)
 
 
-# MIDI EDITOR
+# MIDI Editor
 ## Please read the Editor user guide before starting configuration!
 
  KNOB parameters for TUNING UP/DWN
