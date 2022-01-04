@@ -17,8 +17,8 @@
 
 **Fully editable with MIDI Control Center Editor software**
 
+## Resources
 https://downloads.arturia.net/products/beatstep/manual/BeatStep_Manual_1_0_1_EN.pdf
-
 https://downloads.arturia.net/extra/mcc/MIDI_Control_Center_1_13_5_1.exe
 https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0_EN.pdf
 
