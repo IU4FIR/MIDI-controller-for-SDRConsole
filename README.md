@@ -1,7 +1,20 @@
 # ARTURIA BEATSTEP
 
 ## https://www.arturia.com/products/hybrid-synths/beatstep/overview
-![image](https://user-images.githubusercontent.com/96939950/147897419-3552f1f6-9d84-49ee-97e0-e9c450cd1b2a.png)
+![BeatStep_111813 TOP](https://user-images.githubusercontent.com/96939950/148024423-9f36837d-5712-46e9-8975-26f0ba584473.png)
+MIDI controller mode (RED led mode)
+
+16 + 1 encoders endless rotation
+
+16 velocity and pressure sensitive pads
+
+16 MIDI Controller presets
+
+USB Class compliant (no drivers)
+
+Kensington Lock
+
+Fully editable with MIDI Control Center Editor software
 
 https://downloads.arturia.net/products/beatstep/manual/BeatStep_Manual_1_0_1_EN.pdf
 
