@@ -39,8 +39,9 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
 ![image](https://user-images.githubusercontent.com/96939950/147898828-f6cfbc28-94d7-41cb-b61d-91ebddd455cb.png)
 
 # SDR Console MIDI setup
+![b4](https://user-images.githubusercontent.com/96939950/148031548-ebb76626-b6ed-4b1f-892f-250bb252cd28.gif)
 
-![b4](https://user-images.githubusercontent.com/96939950/148026138-5ff31fef-0752-41af-b00d-582b4b15dfec.gif)
+
 
     E1
       Tune Fine ▼	
