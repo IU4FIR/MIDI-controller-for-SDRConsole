@@ -24,6 +24,7 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
 
 # CONTROLLER MAP
 
+![b2](https://user-images.githubusercontent.com/96939950/148035040-1df6c673-0f0c-45ca-a3a2-3aa713b1dde7.gif)
 
 
 # MIDI EDITOR
@@ -38,6 +39,7 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
 ![image](https://user-images.githubusercontent.com/96939950/147898828-f6cfbc28-94d7-41cb-b61d-91ebddd455cb.png)
 
 # SDR Console MIDI setup
+![b4](https://user-images.githubusercontent.com/96939950/148035079-5f768e69-829c-42d7-b278-565d23c5c380.gif)
 
     E1
       Tune Fine ▼	
