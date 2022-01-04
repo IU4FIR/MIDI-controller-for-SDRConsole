@@ -23,7 +23,6 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
 
 
 # CONTROLLER MAP
-![b2](https://user-images.githubusercontent.com/96939950/148029754-d9f8cb42-120d-4216-995a-a899cada7e96.gif)
 
 
 
@@ -39,9 +38,6 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
 ![image](https://user-images.githubusercontent.com/96939950/147898828-f6cfbc28-94d7-41cb-b61d-91ebddd455cb.png)
 
 # SDR Console MIDI setup
-![b4](https://user-images.githubusercontent.com/96939950/148031548-ebb76626-b6ed-4b1f-892f-250bb252cd28.gif)
-
-
 
     E1
       Tune Fine ▼	
@@ -77,7 +73,8 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
     P14	
       Filter low ▲
    
-![image](https://user-images.githubusercontent.com/96939950/147909295-6d373161-16d1-424e-98e7-cc3cc3a01d3c.png)
+   ![b5](https://user-images.githubusercontent.com/96939950/148034838-8fc19518-cf2b-45b0-84ed-fe1a4f19f232.gif)
+
 
 
 
