@@ -24,22 +24,21 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
 
 
 # Controller Map
+![b2](https://user-images.githubusercontent.com/96939950/148233586-05aa4a1d-05ee-46ab-9129-80a5bd9496e0.gif)
 
-![b2](https://user-images.githubusercontent.com/96939950/148087113-86732fea-cfa4-467f-a4b6-6b7feb5acc81.gif)
 
 # MIDI Control Center
 ## Please read user guide before starting configuration!
-![b3](https://user-images.githubusercontent.com/96939950/148087168-607e05e7-b6a6-442d-8064-0721e1fdeb3a.gif)
-
-
-![b4](https://user-images.githubusercontent.com/96939950/148087268-0ccd805b-ea63-4f12-a70a-4abf3479a7ef.gif)
+![b3](https://user-images.githubusercontent.com/96939950/148233742-4447ec2a-a409-4e9c-963b-354570e1aa5e.gif)
+![b4](https://user-images.githubusercontent.com/96939950/148233765-c295860a-3d7e-4cd4-9647-8754f920f745.gif)
 
  # SDR Console MIDI setup
-![b5](https://user-images.githubusercontent.com/96939950/148087303-a36f3044-74a6-4744-bb29-8f116e753400.gif)
+![b5](https://user-images.githubusercontent.com/96939950/148233885-d7723d21-f5bd-4cbd-a007-8201ba81aa3d.gif)
 
 
- # MIDI Controller layout     
-![b6](https://user-images.githubusercontent.com/96939950/148087331-6f702d86-11cb-488b-b6a0-6fc6bebb3d30.gif)
+ # MIDI Controller layout  
+![b6](https://user-images.githubusercontent.com/96939950/148233934-86690f4d-0b96-4b4b-a22f-a2b3c2a8e8a9.gif)
+
 
 ## Thanks to ARTURIA team for support!
 
