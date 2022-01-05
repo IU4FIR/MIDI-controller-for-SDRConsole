@@ -3,11 +3,11 @@
 ## https://www.arturia.com/products/hybrid-synths/beatstep/overview
 ![BeatStep_111813 TOP](https://user-images.githubusercontent.com/96939950/148024423-9f36837d-5712-46e9-8975-26f0ba584473.png)
 
-**MIDI controller mode (RED led mode)**
-
 **16 + 1 endless rotation knobs**
 
 **16 velocity and pressure sensitive pads**
+
+**MIDI controller mode (RED led mode)**
 
 **16 MIDI Controller presets**
 
