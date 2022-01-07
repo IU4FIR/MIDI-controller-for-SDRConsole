@@ -1,7 +1,9 @@
 # Arturia BEATSTEP
 
-## https://www.arturia.com/products/hybrid-synths/beatstep/overview
 ![BeatStep_111813 TOP](https://user-images.githubusercontent.com/96939950/148024423-9f36837d-5712-46e9-8975-26f0ba584473.png)
+
+## https://www.arturia.com/products/hybrid-synths/beatstep/overview
+![b10](https://user-images.githubusercontent.com/96939950/148509094-7f75acd0-e1b4-4e4c-a257-849ec0f9adfc.gif)
 
 **16 + 1 endless rotation knobs**
 
