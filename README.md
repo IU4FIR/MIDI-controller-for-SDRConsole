@@ -5,19 +5,6 @@
 ## https://www.arturia.com/products/hybrid-synths/beatstep/overview
 ![b10](https://user-images.githubusercontent.com/96939950/148509094-7f75acd0-e1b4-4e4c-a257-849ec0f9adfc.gif)
 
-**16 + 1 endless rotation knobs**
-
-**16 velocity and pressure sensitive pads**
-
-**MIDI controller mode (RED led mode)**
-
-**16 MIDI Controller presets**
-
-**USB Class compliant (no drivers)**
-
-**Kensington Lock**
-
-**Fully editable with MIDI Control Center software**
 
 ## Resources
 https://downloads.arturia.net/products/beatstep/manual/BeatStep_Manual_1_0_1_EN.pdf
@@ -39,8 +26,8 @@ https://downloads.arturia.net/products/mcc/manual/MIDI_Control_Center_Manual_1_0
 
 
  # MIDI Controller layout  
-![b6](https://user-images.githubusercontent.com/96939950/148233934-86690f4d-0b96-4b4b-a22f-a2b3c2a8e8a9.gif)
 
+![b8](https://user-images.githubusercontent.com/96939950/148509298-4ba6f1f9-07c8-4d12-837b-159770554c79.gif)
 
 ## Thanks to ARTURIA team for support!
 
