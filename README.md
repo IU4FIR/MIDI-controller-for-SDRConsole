@@ -8,3 +8,7 @@ https://github.com/IU4FIR/MIDI-controller-for-SDRConsole/tree/SDR-Console
 
 ## ARTURIA Beatstep
 https://github.com/IU4FIR/MIDI-controller-for-SDRConsole/tree/ARTURIA-Beatstep
+
+
+## HERCULES DJController Starlight
+https://github.com/IU4FIR/MIDI-controller-for-SDRConsole/tree/HERCULES-DJ-Starlight
