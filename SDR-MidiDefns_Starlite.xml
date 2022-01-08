@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<SDR-XML-Root xml:lang="EN">
+    <MidiDefn Enable="0" Item="1" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="RX 1 Select" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="2" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="RX 2 Select" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="3" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="RX 3 Select" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="4" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="RX 4 Select" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="5" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="RX 5 Select" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="6" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="RX 6 Select" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="26" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="DJControl Starlight" Name="Audio Mute" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="7" Type="2" Channel="0" Index="1" Value="0" ValueMax="0" Device="DJControl Starlight" Name="Audio Mute all" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="8" Type="3" Channel="0" Index="3" Value="0" ValueMax="127" Device="DJControl Starlight" Name="Audio Level" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="9" Type="2" Channel="6" Index="3" Value="0" ValueMax="0" Device="DJControl Starlight" Name="Audio ▲" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="10" Type="2" Channel="6" Index="2" Value="0" ValueMax="0" Device="DJControl Starlight" Name="Audio ▼" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="17" Type="2" Channel="6" Index="1" Value="0" ValueMax="0" Device="DJControl Starlight" Name="Mode ▲" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="18" Type="2" Channel="6" Index="0" Value="0" ValueMax="0" Device="DJControl Starlight" Name="Mode ▼" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="15" Type="3" Channel="2" Index="10" Value="1" ValueMax="1" Device="DJControl Starlight" Name="Tune Fine ▲" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="16" Type="3" Channel="2" Index="10" Value="127" ValueMax="127" Device="DJControl Starlight" Name="Tune Fine ▼" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="13" Type="3" Channel="2" Index="9" Value="1" ValueMax="1" Device="DJControl Starlight" Name="Tune Norm ▲" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="14" Type="3" Channel="2" Index="9" Value="127" ValueMax="127" Device="DJControl Starlight" Name="Tune Norm ▼" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="11" Type="3" Channel="1" Index="10" Value="1" ValueMax="1" Device="DJControl Starlight" Name="Tune x10 ▲" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="12" Type="3" Channel="1" Index="10" Value="127" ValueMax="127" Device="DJControl Starlight" Name="Tune x10 ▼" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="29" Type="3" Channel="1" Index="9" Value="1" ValueMax="1" Device="DJControl Starlight" Name="Tune x100 ▲" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="30" Type="3" Channel="1" Index="9" Value="127" ValueMax="127" Device="DJControl Starlight" Name="Tune x100 ▼" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="27" Type="2" Channel="2" Index="15" Value="0" ValueMax="0" Device="DJControl Starlight" Name="MHz Up ▲" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="28" Type="2" Channel="1" Index="15" Value="0" ValueMax="0" Device="DJControl Starlight" Name="MHz Up ▼" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="19" Type="2" Channel="2" Index="0" Value="127" ValueMax="127" Device="DJControl Starlight" Name="Filter high ▲" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="20" Type="2" Channel="1" Index="0" Value="0" ValueMax="0" Device="DJControl Starlight" Name="Filter high ▼" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="22" Type="2" Channel="2" Index="2" Value="127" ValueMax="127" Device="DJControl Starlight" Name="Filter low ▲" Modifiers="">
+    </MidiDefn><MidiDefn Enable="1" Item="23" Type="2" Channel="1" Index="2" Value="0" ValueMax="0" Device="DJControl Starlight" Name="Filter low ▼" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="31" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="TX On" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="32" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="TX Proc" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="33" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="TX VOX" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="34" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="TX Mute" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="35" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="TX Drive Level ▲" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="36" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="TX Drive Level ▼" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="37" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="TX Gain Level ▲" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="38" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="TX Gain Level ▼" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="39" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="TX Proc Level ▲" Modifiers="">
+    </MidiDefn><MidiDefn Enable="0" Item="40" Type="2" Channel="0" Index="0" Value="0" ValueMax="0" Device="" Name="TX Proc Level ▼" Modifiers="">
+    </MidiDefn>
+</SDR-XML-Root>
