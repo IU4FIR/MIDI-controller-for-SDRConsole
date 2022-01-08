@@ -15,3 +15,4 @@
 ![1](https://user-images.githubusercontent.com/96939950/148629553-7dd9390b-f09a-494b-80e8-a1b68c9d48f7.png)
 
 
+[DJConsole_CMD.pdf](https://github.com/IU4FIR/MIDI-controller-for-SDRConsole/files/7832492/DJConsole_CMD.pdf)
